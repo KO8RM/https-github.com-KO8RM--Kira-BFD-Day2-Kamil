@@ -1,0 +1,19 @@
+img[alt="img1"]{
+    width:400px;
+    height: 250px;
+    margin-left: 10px;
+    border-radius: 40%;
+}
+img[alt="img2"]{
+    width: 400px;
+    height: 250px;
+    margin-left: 10px;
+    border-radius: 50%;
+    
+}
+img[alt="img3"]{
+    width: 400px;
+    height: 250px;
+    margin-left: 10px;
+    border-radius: 26%;
+}
